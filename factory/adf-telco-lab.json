@@ -1,0 +1,15 @@
+{
+	"name": "adf-telco-lab",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac454155-e3ea-48a4-bb64-16bbe8e0024c",
+		"tenantId": "639941cd-f7c0-4c54-9d7d-7ed7b2595e44"
+	}
+}
